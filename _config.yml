@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9197995
+  saturation: 1
   brandStrength: 0.9630326
-  lightness: 0.8577694
+  lightness: 1
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0.9348371
+  rhythmicContrast: 0.08064516
 typography_spectrum: 0.2825814
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 1
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: 'Test Site for School '
