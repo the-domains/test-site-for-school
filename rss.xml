@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Code Heroes ]]></title>
         <description><![CDATA[Code Heroes ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site-for-school/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 02:35:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 23:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-for-school/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coding Summer ]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b048bed8ac168cb619fb192b7a7e8784c4a35e3.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/test-site-for-school/coding-summer/index.html</link>
+            <guid isPermaLink="false">504d8fd1-e489-4f56-b13f-dd3a37cce4b7</guid>
+            <pubDate>Fri, 10 Jun 2016 23:45:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coding in Class ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ee9599-1059-4351-a25f-36b7df25627c.jpg">]]></description>
-            <link>undefinedcoding-in-class/index.html</link>
+            <link>https://thegrid.ai/test-site-for-school/coding-in-class/index.html</link>
             <guid isPermaLink="false">02acb260-955f-4b51-9f8b-749a3d38d130</guid>
             <pubDate>Wed, 08 Jun 2016 02:34:11 GMT</pubDate>
         </item>
