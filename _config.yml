@@ -1,8 +1,30 @@
-name: 'Test Site for School '
+typography_spectrum: 0.2825814
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#040203'
+    - '#FFF7D3'
+    - '#3C3A3B'
+    - '#A4947B'
+    - '#3D7C10'
+  rhythmicContrast: 0.08064516
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.05197133
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Test Site for School '
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+description: Creativity starts with you
 purpose: []
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#040203'
-    - '#FFF7D3'
-    - '#3C3A3B'
-    - '#A4947B'
-    - '#3D7C10'
-  rhythmicContrast: 0.08064516
-typography_spectrum: 0.2825814
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.05197133
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
