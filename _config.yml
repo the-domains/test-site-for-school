@@ -19,11 +19,15 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Test Site for School '
+name: 'Code Heroes '
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Code Heroes
+    url: www.codingheroes.org
+    type: external
 favicon: null
 collections:
   - index:
